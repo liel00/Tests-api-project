@@ -1,4 +1,4 @@
-# ProjectTestingApi
+# Tests-api-project
 
 This project performs automated tests on the site [JSONPlaceholder](https://jsonplaceholder.typicode.com/users). The tests implemented include PUT, POST, DELETE, GET, and PATCH operations.
 
